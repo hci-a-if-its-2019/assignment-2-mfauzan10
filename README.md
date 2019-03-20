@@ -7,47 +7,45 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+Original
+![New Doc 2019-03-20 23 30 34(1)](https://user-images.githubusercontent.com/33054425/54704259-f88c3480-4b6c-11e9-9d34-f836ca3452a1.jpg)
+Solution 1
+![New Doc 2019-03-20 23 30 34](https://user-images.githubusercontent.com/33054425/54704297-0a6dd780-4b6d-11e9-9087-6078805dfb64.jpg)
+Solution 2
+![New Doc 2019-03-20 23 30 34_3](https://user-images.githubusercontent.com/33054425/54704352-22455b80-4b6d-11e9-91be-01d85667df8c.jpg)
+Solution 3
+![New Doc 2019-03-20 23 30 34_4](https://user-images.githubusercontent.com/33054425/54704383-325d3b00-4b6d-11e9-9120-5d604db0de7d.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+
+## Original
+User can't find fixture or result details, Current match of player, and confusing arrow under the player's table
+
+## Solution 1
+There is a fixture or result details' table under the field image, user can see current, previous, or next match. And there is also show the current match of player that can see under the player icon.
+
+## Solution 2
+The difference with solution 1 is location of 'save' button. In solution 2, the 'save' button is located under the field image and there is 'easy-understanding' arrow under the player list.
+
+## Solution 3
+Same with solution 1 and solution 2, but in solution 3, there is difference search box, and show the player's list by click the player icon at certain position. If we click the player icon that has 'Midfielder' position, the player list's table will show player that has a midfielder position. So, all the search boxes categpry will change, i.e search by team, sort by (category).
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+Among 3 solutions above, I prefer to use solution 3 as the selected sketch. Because it more interactive and informative for user (player) that play fantasy football.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+The main problem of the original design is lack of information about fixture and result details, user need to open the new page just to know the fixture or result details.
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+Physical input : mouse and keyboard
+Min. screen size : 14 inch
+Screen Color : RGB
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+Familiar using web browser and fantasy football game
+Have a lot information about football
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
