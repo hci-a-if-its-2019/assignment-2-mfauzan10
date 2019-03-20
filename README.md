@@ -10,10 +10,13 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 Original
 ![New Doc 2019-03-20 23 30 34(1)](https://user-images.githubusercontent.com/33054425/54704259-f88c3480-4b6c-11e9-9d34-f836ca3452a1.jpg)
+
 Solution 1
 ![New Doc 2019-03-20 23 30 34](https://user-images.githubusercontent.com/33054425/54704297-0a6dd780-4b6d-11e9-9087-6078805dfb64.jpg)
+
 Solution 2
 ![New Doc 2019-03-20 23 30 34_3](https://user-images.githubusercontent.com/33054425/54704352-22455b80-4b6d-11e9-91be-01d85667df8c.jpg)
+
 Solution 3
 ![New Doc 2019-03-20 23 30 34_4](https://user-images.githubusercontent.com/33054425/54704383-325d3b00-4b6d-11e9-9120-5d604db0de7d.jpg)
 
