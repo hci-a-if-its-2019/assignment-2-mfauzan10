@@ -42,13 +42,13 @@ The main problem of the original design is lack of information about fixture and
 
 ## Part B: Assumptions
 ### 1. Hardware
-Physical input : mouse and keyboard
-Min. screen size : 14 inch
-Screen Color : RGB
+- Physical input : mouse and keyboard
+- Min. screen size : 14 inch
+- Screen Color : RGB
 
 ### 2. Users
-Familiar using web browser and fantasy football game
-Have a lot information about football
+- Familiar using web browser and fantasy football game
+- Have a lot information about football
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
