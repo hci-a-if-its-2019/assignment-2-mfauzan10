@@ -52,3 +52,9 @@ The main problem of the original design is lack of information about fixture and
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+**Prototype**
+https://projects.invisionapp.com/freehand/document/ylbhd4cvg
+
+**Detail of Prototype (with Action)**
+https://projects.invisionapp.com/freehand/document/Y4ZMRXRey
