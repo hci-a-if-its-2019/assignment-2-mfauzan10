@@ -53,6 +53,9 @@ The main problem of the original design is lack of information about fixture and
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
 
+**High Fidelity Prototype**
+https://projects.invisionapp.com/share/V6RSPYPZGF5#/screens/360926619_Initial_Transfer
+
 **High Fidelity**
 <br>https://projects.invisionapp.com/freehand/document/ylbhd4cvg</br>
 
